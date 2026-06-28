@@ -1,0 +1,6 @@
+{
+  "name": "Onlayn Menyu Xizmati",
+  "description": "Premium darajadagi onlayn taomlar menyusi, QR kodli buyurtma berish hamda admin boshqaruv tizimi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
